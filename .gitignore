@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Allow everything in client/src
+!src/
+
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

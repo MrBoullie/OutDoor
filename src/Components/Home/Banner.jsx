@@ -13,10 +13,10 @@ function Banner() {
       <Swiper
       spaceBetween={50}
       slidesPerView={1}
-      //  autoplay={{
-      //    delay: 1500,
-      //    disableOnInteraction: false,
-      //  }}
+       autoplay={{
+         delay: 1500,
+         disableOnInteraction: false,
+       }}
        effect={'fade'} // Apply the fade effect
        speed={400} // Transition duration in milliseconds
       fadeEffect={{ crossFade: true }} // Optional: Smooth cross-fade
