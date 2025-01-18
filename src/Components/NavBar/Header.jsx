@@ -2,6 +2,8 @@ import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping , faUser} from '@fortawesome/free-solid-svg-icons';
 import './header.css'
+import { Link } from 'react-router-dom';
+
 
 function Header() {
   return (
@@ -25,8 +27,9 @@ function Header() {
         <div className="collapse navbar-collapse ms-lg-5" id="navbarNav">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item me-3">
-              <a className="nav-link text-black fw-bold " href="index.html">Home</a>
-            </li>
+              {/* <a className="nav-link text-black fw-bold " href="index.html">Home</a> */}
+              <Link className="nav-link text-black fw-bold" to="/">Home</Link>
+              </li>
             <li className="nav-item me-3">
               <a className="nav-link text-black fw-bold" href="about_us_screen/about_us.html">About Us</a>
             </li>
