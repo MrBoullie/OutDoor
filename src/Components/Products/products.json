@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "title": "Camping",
+      "items": [
+        {
+          "id": 1,
+          "name": "2-Person Tent",
+          "price": 120,
+          "image": "/src/assets/images/camping/tent 2 per.jpg",
+          "description": "Compact and lightweight tent for 2 people.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "name": "Family Tent",
+          "price": 300,
+          "image": "/src/assets/images/camping/Family tent.jpg",
+          "description": "Spacious tent perfect for family camping trips.",
+          "rating": 4
+        },
+        {
+          "id": 3,
+          "name": "Hammock with Mosquito Net",
+          "price": 50,
+          "image": "/src/assets/images/camping/Hammock with mosquito net.jpg",
+          "description": "Comfortable hammock with built-in mosquito net.",
+          "rating": 5
+        },
+        {
+          "id": 4,
+          "name": "Winter Sleeping Bag",
+          "price": 80,
+          "image": "/src/assets/images/camping/sleeping bag.jpg",
+          "description": "Insulated sleeping bag for cold weather camping.",
+          "rating": 4
+        },
+        {
+          "id": 5,
+          "name": "Portable Gas Stove",
+          "price": 45,
+          "image": "/src/assets/images/camping/Portable gaz stove.png",
+          "description": "Compact gas stove for outdoor cooking.",
+          "rating": 5
+        },
+        {
+          "id": 6,
+          "name": "Mess Kit Cookware",
+          "price": 30,
+          "image": "/src/assets/images/camping/Mess Kit Cookware.jpg",
+          "description": "Compact cookware set for camping.",
+          "rating": 4
+        },
+        {
+          "id": 7,
+          "name": "Food Container Set",
+          "price": 25,
+          "image": "/src/assets/images/camping/Food container set.jpg",
+          "description": "Durable and reusable food storage containers.",
+          "rating": 4
+        },
+        {
+          "id": 8,
+          "name": "Camping Lantern",
+          "price": 35,
+          "image": "/src/assets/images/camping/Camping lantern.jpg",
+          "description": "Bright and long-lasting camping lantern.",
+          "rating": 5
+        },
+        {
+          "id": 9,
+          "name": "Headlamp",
+          "price": 20,
+          "image": "/src/assets/images/camping/Headlamp.jpg",
+          "description": "Lightweight and adjustable headlamp.",
+          "rating": 5
+        },
+        {
+          "id": 10,
+          "name": "Portable Solar Charger",
+          "price": 60,
+          "image": "/src/assets/images/camping/Portable Solar Charger.jpg",
+          "description": "Recharge your devices using solar power.",
+          "rating": 4
+        },
+        {
+          "id": 11,
+          "name": "Camping Chair",
+          "price": 40,
+          "image": "/src/assets/images/camping/Camping chair.jpg",
+          "description": "Folding chair for comfortable outdoor seating.",
+          "rating": 5
+        },
+        {
+          "id": 12,
+          "name": "Folding Table",
+          "price": 70,
+          "image": "/src/assets/images/camping/Folding table.jpg",
+          "description": "Compact and lightweight folding table.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hiking",
+      "items": [
+        {
+          "id": 13,
+          "name": "Hiking Boots",
+          "price": 100,
+          "image": "/src/assets/images/hiking/Hiking boots.jpg",
+          "description": "Durable and waterproof hiking boots.",
+          "rating": 5
+        },
+        {
+          "id": 14,
+          "name": "Waterproof Jacket",
+          "price": 90,
+          "image": "/src/assets/images/hiking/waterproof jacket.png",
+          "description": "Lightweight and breathable waterproof jacket.",
+          "rating": 4
+        },
+        {
+          "id": 15,
+          "name": "Hiking Hat",
+          "price": 25,
+          "image": "/src/assets/images/hiking/Hiking hat.png",
+          "description": "Sun-protective and breathable hat.",
+          "rating": 4
+        },
+        {
+          "id": 16,
+          "name": "Daypack",
+          "price": 60,
+          "image": "/src/assets/images/hiking/Daypack.jpg",
+          "description": "Compact daypack for short hikes.",
+          "rating": 5
+        },
+        {
+          "id": 17,
+          "name": "Hydration Pack",
+          "price": 50,
+          "image": "/src/assets/images/hiking/Hydration Pack.jpg",
+          "description": "Stay hydrated with this lightweight pack.",
+          "rating": 4
+        },
+        {
+          "id": 18,
+          "name": "GPS Device",
+          "price": 200,
+          "image": "/src/assets/images/hiking/GPS Device.jpg",
+          "description": "Reliable and accurate GPS device.",
+          "rating": 5
+        },
+        {
+          "id": 19,
+          "name": "Compass",
+          "price": 15,
+          "image": "/src/assets/images/hiking/Compass.jpg",
+          "description": "Essential navigation tool for outdoor adventures.",
+          "rating": 4
+        },
+        {
+          "id": 20,
+          "name": "Trekking Poles",
+          "price": 45,
+          "image": "/src/assets/images/hiking/Trekking Poles.jpg",
+          "description": "Lightweight and adjustable trekking poles.",
+          "rating": 5
+        },
+        {
+          "id": 21,
+          "name": "Thermal Socks",
+          "price": 20,
+          "image": "/src/assets/images/hiking/Thermal socks.jpg",
+          "description": "Warm and comfortable thermal socks.",
+          "rating": 5
+        }
+      ]
+    }
+  ]
+  

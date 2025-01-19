@@ -1,0 +1,13 @@
+.addToCard:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.card:hover {
+    transform: scale(1.03); /* Scales the card up slightly */
+    transition: transform 0.3s ease; /* Smooth transition effect */
+  }
+  
+  .card {
+    transition: transform 0.3s ease; /* Ensures smoothness when not hovered */
+  }

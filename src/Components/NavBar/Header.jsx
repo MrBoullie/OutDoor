@@ -31,10 +31,12 @@ function Header() {
               <Link className="nav-link text-black fw-bold" to="/">Home</Link>
               </li>
             <li className="nav-item me-3">
-              <a className="nav-link text-black fw-bold" href="about_us_screen/about_us.html">About Us</a>
+              {/* <a className="nav-link text-black fw-bold" href="about_us_screen/about_us.html">About Us</a> */}
+              <Link className="nav-link text-black fw-bold" to="/AboutUs">About Us</Link>
             </li>
             <li className="nav-item me-3">
-              <a className="nav-link text-black fw-bold" href="products_screen/products.html">Products</a>
+              {/* <a className="nav-link text-black fw-bold" href="products_screen/products.html">Products</a> */}
+              <Link className="nav-link text-black fw-bold" to="/Products">Products</Link>
             </li>
             <li className="nav-item me-3">
               <a className="nav-link text-black fw-bold" href="contact_us_screen/contact_us.html">Contact</a>
