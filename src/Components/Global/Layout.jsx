@@ -3,10 +3,10 @@ import Header from '../NavBar/Header'
 import Footer from '../Footer/Footer'
 
 
-const Layout = ({ children }) => {
+const Layout = ({ children,cartCount }) => {
     return (
       <>
-        <Header />
+        <Header cartCount={cartCount}/>
         <main>{children}</main>
         <Footer />
       </>

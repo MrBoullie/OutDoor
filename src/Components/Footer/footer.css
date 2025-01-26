@@ -53,13 +53,11 @@
     display: flex;
     justify-content: center;
     gap: 3vh;
-    margin-top: 1vh;
-    padding-top: 3vh;
   }
   
   .social-icon {
     font-size: 1rem;
-    color: #000000;
+    color: #fff;
     text-decoration: none; 
     transition: color 0.3s ease;
   }
@@ -72,12 +70,6 @@
     font-size: 1.5rem;
   }
   
-  .footer-bottom {
-    text-align: center;
-    margin-top: 4vh;
-    font-size: 1.6vh;
-    font-weight: bold;
-  }
   
   .footer-bottom p {
     color: #000000;

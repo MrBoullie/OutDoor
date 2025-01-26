@@ -1,6 +1,6 @@
 import productData from "./products.json";
 import './product.css'
-function Product() {
+function Product({onAddToCart}) {
   return (
     <div className="d-flex flex-column mx-5">
       {productData.map((category) => (
@@ -39,7 +39,7 @@ function Product() {
                        <div className="fw-semibold fs-5"> {item.name} </div>
                        <div className="text-success fs-5 fw-bold"> ${item.price}</div>
                        <div className="fs-6 fw-normal"> {item.description}</div>
-                       <div><a className="btn border rounded mt-3 addToCard">Add to cart</a></div>
+                       <div><a className="btn border rounded mt-3 addToCard border-2"   onClick={() => onAddToCart(item)}>Add to cart</a></div>
                     </div>
 
                     <div className="mt-2 d-flex justify-content-center">
